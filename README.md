@@ -8,10 +8,11 @@ Contents
 - Data operations (filtering, grouping, merging)
 - Data cleaning and preprocessing
 
-Branch Information
-This tutorial is located in the my-new-branch branch. To access, checkout the branch using git checkout my-new-branch.
+# Branch Information
 
-Getting Started
+This tutorial is located in the my-new-branch branch. To access, checkout the branch using git checkout "my-new-branch".
+
+# Getting Started
 1. Clone the repository
-2. Checkout the my-new-branch branch
+2. Checkout the "my-new-branch" branch
 3. Explore the pandas tutorial folder
